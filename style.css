@@ -1,0 +1,6 @@
+body {
+    background: linear-gradient(to right, #ff9966, #ff5e62); /* Gradient from orange to red */
+    /* or */
+    background: radial-gradient(circle, #ff00cc, #333399); /* Radial gradient */
+  }
+  
