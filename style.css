@@ -3,4 +3,27 @@ body {
     /* or */
     background: radial-gradient(circle, #ff00cc, #333399); /* Radial gradient */
   }
+  #result{
+    padding-left: 40rem;
+    margin-top: 1.5rem;
+    font-size: larger;
+    color: white;
+  }
+  p{
+    padding-left: 20px;
+    color: white;
+    font-size: 30px;
+    padding-top: 15px;
+  }
+  /* .form-row{
+    padding-top: 40px;
+    padding-left: 40rem;
+  }
+  #padded{
+    padding-left: 40px;
+  } */
+  #form_padded{
+    padding-top: 40px;
+    padding-left: 40rem;
+  }
   
